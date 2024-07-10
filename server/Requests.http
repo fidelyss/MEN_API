@@ -1,0 +1,24 @@
+GET http://localhost:3001/
+
+###
+
+POST http://localhost:3001/
+Content-Type: application/json 
+
+{
+    "nome":"saidae"
+}
+
+###
+
+DELETE  http://localhost:3001/664ca1b8c0361d9d5bcf534b
+
+###
+
+DELETE  http://localhost:3001/All
+
+###
+
+PUT http://localhost:3001/
+
+
